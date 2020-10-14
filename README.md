@@ -13,11 +13,19 @@ http://ufldl.stanford.edu/housenumbers as the URL for this site when necessary
 
 ## Project Objectives
 The objective of the project is to learn how to implement a simple image classification pipeline based on the k-Nearest Neighbour and a deep neural network. The goals of this assignment are as follows:
+
 ● Understand the basic Image Classification pipeline and the data-driven approach (train/predict stages)
+
 ● Data fetching and understand the train/val/test splits.
+
 ● Implement and apply an optimal k-Nearest Neighbor (kNN) classifier 
+
 ● Print the classification metric report 
+
 ● Implement and apply a deep neural network classifier including (feedforward neural network, RELU activations) 
+
 ● Understand and be able to implement (vectorized) backpropagation (cost stochastic gradient descent, cross entropy loss, cost functions) 
+
 ● Implement batch normalization for training the neural network 
+
 ● Understand the differences and trade-offs between traditional and NN classifiers with the help of classification metrics
